@@ -1,0 +1,28 @@
+Ancient text-mode Trek game.
+By John Thompson.
+C source included!
+
+
+This is an ancient game; I can remember playing it (or an earlier
+version, at least) on a PDP-11/20 when I was in college in the 
+mid-1970's.  If you're into fast-paced shoot-em-ups you probably 
+won't like it.  Everything is text, just as it was when played on
+a teletype spewing paper with every move.
+
+So why bother porting such a game?  My son, almost 13 years old 
+now, found a version of it on his uncle's DEC System 5400 and was
+captivated (but then he's been a fan of Will Crowther's text
+"Adventure" game since about age 6).  My brother and I tracked
+the source code down to a site in Australia and Bryan Whitehead 
+was kind enough to port it to OS/2 for me with the emx compiler. 
+Now my son can play it at home on our OS/2 machine instead of
+hanging out at his uncle's endlessly or telnet-ing into the DEC
+machine and tying up our phone lines :-)
+
+If you think you'd enjoy a "blast from the past" give it a try.
+At least it could give you an idea how people played with
+computers back in the dark ages.
+
+So, enjoy.  My next project is to compile it for DOS...
+
+-John (John.Thompson@ibm.net)

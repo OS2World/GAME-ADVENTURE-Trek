@@ -1,0 +1,9 @@
+This port was done by Bryan Whitehead <driver@technologist.com>
+It was a very easy port just had to comment out some BSD (sgtty)
+style stuff.... other than that a Makefile had to be created for
+EMX (hell the one included wouldn't worl on any GNU based
+Makefile..)
+
+Anyhow... it was all John Thompson's idea... so thank him also.
+
+Have fun and enjoy!
